@@ -8,6 +8,11 @@ p{
     text-align: center;
     color: #ffffff;
 }
+.caja { 
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+    font-size: 20px; 
+    font-weight: 200px;  
+    background:rgba(133, 128, 128, 0.5) }
 ul{
     color: #ffffff;
 }
